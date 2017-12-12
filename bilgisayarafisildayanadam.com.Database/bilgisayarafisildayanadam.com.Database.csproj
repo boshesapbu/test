@@ -50,7 +50,15 @@
     <Compile Include="Functions\Scalar\function_server_date.cs" />
     <Compile Include="Functions\Table\function_list_projects.cs" />
     <Compile Include="Functions\Table\function_list_project_authorities__delete_users_combine.cs" />
+    <Compile Include="Functions\Table\function_list_project_authorities__update_project_files_users_combine.cs" />
+    <Compile Include="Functions\Table\function_list_project_authorities__update_users_combine.cs" />
+    <Compile Include="Functions\Table\function_list_project_files.cs" />
+    <Compile Include="Functions\Table\function_list_project_files_transfers.cs" />
+    <Compile Include="Functions\Table\function_list_project_file_path_authorities.cs" />
+    <Compile Include="Functions\Table\function_list_project_file_versions.cs" />
+    <Compile Include="Functions\Table\function_list_string_split.cs" />
     <Compile Include="Functions\Table\function_list_users.cs" />
+    <Compile Include="Functions\Table\function_list_user_authorities__authorities_combine.cs" />
     <Compile Include="Procedures\procedure_delete_projects.cs" />
     <Compile Include="Procedures\procedure_delete_project_files_transfers.cs" />
     <Compile Include="Procedures\procedure_delete_project_file_path_authorities.cs" />

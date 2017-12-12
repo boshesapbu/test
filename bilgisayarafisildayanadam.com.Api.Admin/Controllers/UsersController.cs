@@ -12,27 +12,6 @@ namespace bilgisayarafisildayanadam.com.Api.Admin.Controllers
     {
         public void Insert(procedure_insert_users user)
         {
-            user.process_user_id = "";
-            user.user_id = Guid.NewGuid().ToString();
-            var _resultService = new Takbis().Run(256);
-        }
-
-    }
-
-    public interface IServiceMA<TParameterModel, TResult>
-    {
-        TResult Run(TParameterModel parameter);
-    }
-    
-    public class Takbis : IServiceMA<int, Takbis>
-    {
-        public string ad { get; set; }
-        public string soyad { get; set; }
-        public DateTime dogum_tarihi { get; set; }
-
-        public Takbis Run(int parameter)
-        {
-            return null;
         }
     }
 }
