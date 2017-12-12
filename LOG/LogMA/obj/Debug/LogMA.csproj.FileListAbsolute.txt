@@ -1,0 +1,18 @@
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\bin\Debug\LogMA.dll
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\bin\Debug\LogMA.pdb
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\obj\Debug\LogMA.csprojResolveAssemblyReference.cache
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\obj\Debug\LogMA.csproj.CoreCompileInputs.cache
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\obj\Debug\LogMA.dll
+c:\users\muhammed-pc\source\repos\LogMA\LogMA\obj\Debug\LogMA.pdb
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\bin\Debug\LogMA.dll
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\bin\Debug\LogMA.pdb
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\obj\Debug\LogMA.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\obj\Debug\LogMA.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\obj\Debug\LogMA.dll
+C:\Users\MUHAMMED-PC\Documents\Visual Studio 2017\Projects\LogMA\LogMA\obj\Debug\LogMA.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\bin\Debug\LogMA.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\bin\Debug\LogMA.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\obj\Debug\LogMA.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\obj\Debug\LogMA.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\obj\Debug\LogMA.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\LOG\LogMA\obj\Debug\LogMA.pdb

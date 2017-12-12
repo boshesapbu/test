@@ -1,0 +1,16 @@
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\bilgisayarafisildayanadam.com.Database.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\bilgisayarafisildayanadam.com.Database.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\MA.Dal.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\MA.Dao.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\MA.Dal.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\MA.Dao.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.Properties.Resources.resources
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\obj\Debug\bilgisayarafisildayanadam.com.Database.csproj.GenerateResource.Cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\bilgisayarafisildayanadam.com.Security.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\SecurityMA.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\bilgisayarafisildayanadam.com.Security.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Database\bin\Debug\SecurityMA.pdb

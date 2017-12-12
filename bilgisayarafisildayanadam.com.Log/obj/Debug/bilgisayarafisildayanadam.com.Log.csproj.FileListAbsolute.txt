@@ -1,0 +1,10 @@
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\bilgisayarafisildayanadam.com.Log.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\bilgisayarafisildayanadam.com.Log.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\LogMA.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\LogMA.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\obj\Debug\bilgisayarafisildayanadam.com.Log.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\obj\Debug\bilgisayarafisildayanadam.com.Log.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\obj\Debug\bilgisayarafisildayanadam.com.Log.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\obj\Debug\bilgisayarafisildayanadam.com.Log.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Log\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8030B58F-1F06-48CC-9C42-1621397819B3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bilgisayarafisildayanadam.com.Database</RootNamespace>
+    <AssemblyName>bilgisayarafisildayanadam.com.Database</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectionOptions.cs" />
+    <Compile Include="DaoStandart.cs" />
+    <Compile Include="Functions\Scalar\function_admin_user_id.cs" />
+    <Compile Include="Functions\Scalar\function_convert_md5.cs" />
+    <Compile Include="Functions\Scalar\function_exists_project_authority_delete.cs" />
+    <Compile Include="Functions\Scalar\function_exists_project_authority_update.cs" />
+    <Compile Include="Functions\Scalar\function_exists_project_authority_update_project_files.cs" />
+    <Compile Include="Functions\Scalar\function_exists_project_file_path_authority.cs" />
+    <Compile Include="Functions\Scalar\function_exists_user_authority.cs" />
+    <Compile Include="Functions\Scalar\function_server_date.cs" />
+    <Compile Include="Functions\Table\function_list_projects.cs" />
+    <Compile Include="Functions\Table\function_list_project_authorities__delete_users_combine.cs" />
+    <Compile Include="Functions\Table\function_list_users.cs" />
+    <Compile Include="Procedures\procedure_delete_projects.cs" />
+    <Compile Include="Procedures\procedure_delete_project_files_transfers.cs" />
+    <Compile Include="Procedures\procedure_delete_project_file_path_authorities.cs" />
+    <Compile Include="Procedures\procedure_delete_users.cs" />
+    <Compile Include="Procedures\procedure_insert_projects.cs" />
+    <Compile Include="Procedures\procedure_insert_project_files_transfers.cs" />
+    <Compile Include="Procedures\procedure_insert_project_file_path_authorities.cs" />
+    <Compile Include="Procedures\procedure_insert_users.cs" />
+    <Compile Include="Procedures\procedure_update_projects.cs" />
+    <Compile Include="Procedures\procedure_update_projects__user_id_owner.cs" />
+    <Compile Include="Procedures\procedure_update_project_authorities.cs" />
+    <Compile Include="Procedures\procedure_update_project_files_transfers__commit.cs" />
+    <Compile Include="Procedures\procedure_update_project_files_transfers__publish.cs" />
+    <Compile Include="Procedures\procedure_update_users.cs" />
+    <Compile Include="Procedures\procedure_update_user_authorities.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\bilgisayarafisildayanadam.com.Security\bilgisayarafisildayanadam.com.Security.csproj">
+      <Project>{b9bb82f6-5563-40d2-b200-eff021ae35a8}</Project>
+      <Name>bilgisayarafisildayanadam.com.Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL_DAO\MADal\MA.Dal.csproj">
+      <Project>{5a591807-ff21-4a96-8df8-48f1bb10263b}</Project>
+      <Name>MA.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL_DAO\MADao\MA.Dao.csproj">
+      <Project>{c12e2120-bc12-4d64-addd-9fbff13b9862}</Project>
+      <Name>MA.Dao</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

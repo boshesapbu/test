@@ -1,0 +1,8 @@
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\bin\Debug\bilgisayarafisildayanadam.com.Security.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\bin\Debug\bilgisayarafisildayanadam.com.Security.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\bin\Debug\SecurityMA.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\bin\Debug\SecurityMA.pdb
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\obj\Debug\bilgisayarafisildayanadam.com.Security.csprojResolveAssemblyReference.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\obj\Debug\bilgisayarafisildayanadam.com.Security.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\obj\Debug\bilgisayarafisildayanadam.com.Security.dll
+C:\Users\MUHAMMED-PC\source\repos\bilgisayarafisildayanadam.com\bilgisayarafisildayanadam.com.Security\obj\Debug\bilgisayarafisildayanadam.com.Security.pdb
